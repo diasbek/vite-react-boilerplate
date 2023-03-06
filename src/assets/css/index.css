@@ -1,0 +1,29 @@
+@import "../fonts/gilroy/gilroy.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/** {*/
+/*    border: 1px solid red;*/
+
+/*}*/
+
+body {
+    padding-bottom: 0px;
+}
+
+.leaflet-control-attribution {
+    display: none;
+}
+
+p {
+    margin-top: 1rem;
+    /*text-indent: 3rem;*/
+}
+
+ul {
+    margin-top: 1rem;
+    list-style-type: circle;
+    list-style-position: inside;
+}

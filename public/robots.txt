@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bookcinema.uz/sitemap.xml
